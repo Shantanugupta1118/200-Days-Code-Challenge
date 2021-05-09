@@ -1,7 +1,8 @@
 # Contribution By: Shantanu Gupta
 # Github: Shantanugupta1118
-# DAY 1 of DAY 100
+# DAY 2 of DAY 100
 # INFYTQ HackWithInfy - 2021 - Garland for Diwali
+# Question problem statement available in this folder.
 
 
 
