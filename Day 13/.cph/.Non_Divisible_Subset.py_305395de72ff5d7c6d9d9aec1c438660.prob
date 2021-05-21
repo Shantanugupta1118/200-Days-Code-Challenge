@@ -1,0 +1,1 @@
+{"name":"Local: Non_Divisible_Subset","url":"e:\\CodeWork\\100 Days Code Challenge\\Day 13\\Non_Divisible_Subset.py","tests":[{"id":1621613043542,"input":"4 3\n1 7 2 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeWork\\100 Days Code Challenge\\Day 13\\Non_Divisible_Subset.py","group":"local","local":true}
