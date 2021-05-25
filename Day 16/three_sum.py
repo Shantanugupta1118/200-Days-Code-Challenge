@@ -1,3 +1,7 @@
+# Github: Shantanugupta1118
+# DAY 16 of DAY 100
+# 3SUMS - Interviewbits/Leetcode
+
 
 def main():
     nums = list(map(int, input().split()))
