@@ -1,5 +1,5 @@
 # Github: Shantanugupta1118
-# DAY 12 of DAY 100
+# DAY 18 of DAY 100
 #  Array Manipulation - Hackerrank
 #  https://www.hackerrank.com/challenges/crush/problem
 

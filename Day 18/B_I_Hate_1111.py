@@ -1,5 +1,5 @@
 # Github: Shantanugupta1118
-# DAY 12 of DAY 100
+# DAY 18 of DAY 100
 # Hate 1111 - Codeforces
 #  https://codeforces.com/contest/1526/problem/B
 
