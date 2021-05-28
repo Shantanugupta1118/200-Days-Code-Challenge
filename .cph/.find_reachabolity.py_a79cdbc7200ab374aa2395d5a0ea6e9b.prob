@@ -1,1 +1,0 @@
-{"name":"Local: find_reachabolity","url":"e:\\CodeWork\\100 Days Code Challenge\\find_reachabolity.py","tests":[{"id":1621781099508,"input":"4\n2\n5\n7\n9\n4\n2 9\n7 2\n7 9\n9 5\n7\n9","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeWork\\100 Days Code Challenge\\find_reachabolity.py","group":"local","local":true}
