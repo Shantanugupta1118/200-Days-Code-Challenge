@@ -6,7 +6,7 @@ def minimumloss(arr, n):
     mini = sys.maxsize
     for i in range(n-1):
         for j in range(i,n):
-            if arr[i] > arr[j] and arr[i]-arr[j] < mini:
+            if arr[i] > arr[j]:
                 mini = min(mini, arr[i] - arr[j])
     return mini
 
