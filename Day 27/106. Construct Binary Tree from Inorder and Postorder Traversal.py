@@ -51,7 +51,6 @@ print(Solution().buildTree(inorder, postorder))
 
 
 
-
 # Solution 2---
 """
 class Node:
