@@ -1,0 +1,15 @@
+# Github: Shantanugupta1118
+# DAY 28 of DAY 100
+# 27. Remove Element - LeetCode
+# https://leetcode.com/problems/remove-element/
+
+class Solution:
+    def removeelement(self, nums, val):
+        x = nums.count(val)
+        for i in range(x):
+            nums.remove(val)
+        return len(nums)
+
+nums = list(map(int, input().split()))
+val = int(input())
+print(Solution().removeelement(nums, val), nums)
