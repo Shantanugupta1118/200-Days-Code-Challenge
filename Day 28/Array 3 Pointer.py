@@ -19,7 +19,7 @@ class Solution:
                 C.append(0)
         i=j=k=mx
         while mx!=0:
-            
+            pass            
                 
 
 
