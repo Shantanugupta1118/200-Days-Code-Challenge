@@ -3,7 +3,7 @@
 # Number of Subarrays with Bounded Maximum - Leetcode/June 21
 # https://leetcode.com/explore/learn/card/binary-search/125/template-i/951/
 
-import copy
+
 
 class solution:
     def solve(self, nums, left, right):
