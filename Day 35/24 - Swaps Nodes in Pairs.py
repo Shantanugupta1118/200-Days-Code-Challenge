@@ -2,7 +2,7 @@
 
 
 class Node:
-	def __init__(self, data):
+	def __init__(self, data=0):
 		self.data = data
 		self.next = None
 
@@ -31,28 +31,29 @@ class LinkedList:
 		print()
 
 	def swaps(self):
-		if self.head is None:
-			print("None")
-		curr = self.head
-		while curr:
-			i = 0
-			while i<=1:
-				prev = curr
-				curr = curr.next
-				i += 1
-			print("1", curr.data, prev.data)
-			curr = prev
-			print("2",curr.data, prev.data)
-			prev = curr
-			curr = curr.next
-			print(curr.data)
+		tail = prev = Node()
+		tail.next = self.head
+		while tail.next and tail.next.next:
+			first = tail.next
+			second = tail.next.next
+			third = tail.next.next.next
+			tail.next = second
+			tail.next.next = first
+			tail.next.next.next = third
+			tail = first
+		
+		return prev.next
 
 
 ll = LinkedList()
 arr = [1, 2, 3, 4]
 for i in arr:
 	ll.push(i)
+# new_val = LinkedList()
+ll.disp()
 
-ll.disp()
-ll.swaps()
-ll.disp()
+
+new_val = ll.swaps()
+while new_val:
+	print(new_val.data, end=' ')
+	new_val = new_val.next
