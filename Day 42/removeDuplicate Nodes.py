@@ -1,5 +1,7 @@
 # Github: Shantanugupta1118
-# DAY 41 of DAY 100
+# DAY 42 of DAY 100
+# 83. Remove Duplicates from Sorted List    -  LeetCode/LinkedList
+# https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 class Node:
     def __init__(self, data=0) -> None:
