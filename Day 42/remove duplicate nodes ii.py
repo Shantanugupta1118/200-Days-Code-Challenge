@@ -34,10 +34,26 @@ class LinkedList:
         print()
 
     
+    def removeDuplicates(self):
+        prev = None
+        curr = Node(None)
+        ans = curr
+        currr = self.head
+        while currr:
+            if currr.data != prev and (currr.next is None or currr.data != currr.next.data):
+                curr.next = currr
+                curr = curr.next
+            else:
+                curr.next = None
+            prev = currr.data    
+            currr = currr.next
+                                
 
 
 ll = LinkedList()
 arr = [1,2,2,3,5,6,6,7,8,9,9,10,12]
 for i in arr:
     ll.push(i)
+ll.disp()
+ll.removeDuplicates()
 ll.disp()
