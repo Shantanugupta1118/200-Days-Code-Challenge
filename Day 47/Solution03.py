@@ -10,7 +10,7 @@ class Juspay_Solution:
             for ele in graph[curr]:
                 if visited[ele] == 0:
                     stack.append(ele)
-                    path, stack = self.traverse(graph, visited, ele, path, stack, n)
+                    path, stack = self.traverse(graph, visited , ele, path, stack, n)
             stack.pop()
             return path, stack
 
