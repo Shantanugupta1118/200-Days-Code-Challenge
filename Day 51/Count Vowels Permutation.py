@@ -1,5 +1,5 @@
 # Github: Shantanugupta1118
-# DAY 50 of DAY 100
+# DAY 51 of DAY 100
 # Count Vowels Permutation
 # https://leetcode.com/explore/featured/card/july-leetcoding-challenge-2021/608/week-1-july-1st-july-7th/3802/
 
