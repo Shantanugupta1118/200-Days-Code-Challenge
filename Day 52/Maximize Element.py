@@ -1,4 +1,6 @@
-
+# Github: Shantanugupta1118
+# DAY 52 of DAY 100
+# Maximize the Element in the Array
 
 
 class Solution:
