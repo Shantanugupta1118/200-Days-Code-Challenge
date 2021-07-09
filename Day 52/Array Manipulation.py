@@ -3,18 +3,18 @@
 # Array Manipulation    -  Hackerrank
 
 class Solution:
-    def fnc(self, size, n):
-        res = [0 for _ in range(size)]
-        arr = []
-        for _ in range(n):
-            arr.append(list(map(int, input().split())))
-        for x in arr:
-            for i in range(x[0]-1, x[1]):
-                res[i] += x[2]
-        return res
+    def fnc(self, n, m):
+        res = [0 for _ in range(n+2)]
+        for i in range(m):
+            a, b, c = map(int, input().split())
+            res[a] += c
+            res[b+1] -= c
 
+        for i in range(1,n+1):
+            res[i] += res[i-1]
 
-
+        return res[res.index(max(res))]
+        
 
 size, n = map(int, input().split())
-print(max(Solution().fnc(size, n)))
+print(Solution().fnc(size, n))
