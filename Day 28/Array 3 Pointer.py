@@ -4,22 +4,28 @@
 # https://www.interviewbit.com/problems/array-3-pointers/
 
 
+from sys import maxsize
 class Solution:
     def minimize(self, A, B, C):
-        i, j, k = len(A), len(B), len(C)
-        mx = max(i, j, k)
-        if len(A)!=mx:
-            while len(A)!=mx:
-                A.append(0)
-        if len(B) != mx:
-            while len(B)!=mx:
-                B.append(0)
-        if len(C)!=mx:
-            while len(C)!=mx:
-                C.append(0)
-        i=j=k=mx
-        while mx!=0:
-            pass            
+        p, q, r = len(A), len(B), len(C)
+        intersect = maxsize
+        temp1, temp2, temp3 = 0, 0, 0
+        i, j, k = 0, 0, 0
+        while i<p and j<q and k<r:
+            mn = min(A[i], min(B[j], C[k]))
+            mx = max(A[i], max(B[j], C[k]))
+            if mx-mn < intersect:
+                temp1, temp2, temp3 = i, j, k
+                intersect = mx-mn
+            if intersect==0:
+                break
+            if A[i] == mn:
+                i += 1
+            elif B[j] == mn:
+                j += 1
+            else:
+                k += 1
+        return max(abs(A[temp1] - B[temp2]), abs(B[temp2] - C[temp3]), abs(C[temp3] - A[temp1]))
                 
 
 
@@ -27,4 +33,4 @@ class Solution:
 A = [1, 4, 10]
 B = [2, 15, 20]
 C = [10, 20]
-print()
+print(Solution().minimize(A, B, C))
