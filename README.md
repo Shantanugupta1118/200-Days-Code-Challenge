@@ -5,7 +5,7 @@
 Starting from : 05 May, 2021
 </h5>
 <h4 align="center">
-  Total Problem Submissions: <b>24</b>
+  Total Problem Submissions: <b>51</b>
 </h4>
 
 ## Contents
@@ -172,132 +172,180 @@ Starting from : 05 May, 2021
     </tr>
       <tr>
       <td>28.</td>
-       <td rowspan = "2"> Day 14 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td> Day 14 </ td>  
+       <td><a href="Day 14/Absolute_Permutation.py"</a>Absolute_Permutation.py</td>
+       <td> Hackerrank </ td> 
     </tr>
       <tr>
       <td>29.</td>
-       <td> <a href=""></a> </ td> 
+       <td rowspan = "2"> Day 15 </ td>  
+       <td><a href="Day 15/find_reachabolity.py"</a>Find Reachability</td>
        <td>  </ td> 
     </tr>
       <tr>
       <td>30.</td>
-       <td rowspan = "2"> Day 15 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td> <a href="Day 15/count and say.py"</a>38. Count and say </ td>   
+       <td> Leetcode/InterviewBit </ td> 
     </tr>
       <tr>
       <td>31.</td>
-       <td> <a href=""></a> </ td>   
-       <td>  </ td> 
-    </tr>
-      <tr>
+       <td> Day 16 </ td>  
+       <td><a href="Day 16/three_sum.py"</a>3SUMSe</td>
+       <td> Interviewbits/Leetcod </ td> 
+    </tr>   
+	<tr>
       <td>32.</td>
-       <td rowspan = "2"> Day 16 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td> Day 17 </ td>  
+       <td><a href="Day 17/11. Container With Most Water.py"</a>11. Container With Most Water</td>
+       <td> Leetcode </ td> 
+    </tr>
+    <tr>
+      <td>33.</td>
+       <td rowspan = "3"> Day 18 </ td>  
+       <td><a href="Day 18/B_I_Hate_1111.py"</a>Hate 1111</td>
+       <td>  CodeForces</ td> 
     </tr>
       <tr>
-      <td>33.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
-    </tr>      <tr>
       <td>34.</td>
-       <td rowspan = "2"> Day 17 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td> <a href="Day 18/75 - Sort Color.py"</a>5. Sort Colors </ td>  
+       <td> Leetcode </ td> 
     </tr>
       <tr>
       <td>35.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
-    </tr>
-    <tr>
-      <td>36.</td>
-       <td rowspan = "2"> Day 18 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td> <a href="Day 18/Array_Manipulation.py"</a>5 Array Manipulation </ td>  
+       <td> Hackerrank </ td> 
     </tr>
       <tr>
+      <td>36.</td>
+       <td rowspan = "2"> Day 19 </ td>  
+       <td><a href="Day 19/42. Trapping Rain Water.py"</a>42. Trapping Rain Water</td>
+       <td> Leetcode </ td> 
+    </tr>
       <td>37.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 19/21. Merge Two Sorted Lists.py"</a> 21. Merge Two sorted lists </ td>  
+       <td> Leetcode </ td> 
     </tr>
       <tr>
       <td>38.</td>
-       <td rowspan = "2"> Day 19 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td rowspan = "2"> Day 20 </ td>  
+       <td><a href="Day 20/215. Kth Largest Element in an Array.py"</a>215. Kth Largest Element in an Array</td>
+       <td> Leetcode </ td> 
     </tr>
       <tr>
       <td>39.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 20/1046. Last Stone Weight.py"</a>1046. Last Stone Weight </ td>  
+       <td> Leetcode </ td> 
     </tr>
       <tr>
       <td>40.</td>
-       <td rowspan = "2"> Day 20 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td rowspan = "2"> Day 21 </ td>  
+       <td><a href="Day 21/K reverse linked list.py"</a>K reverse linked list</td>
+       <td> InterviewBit </ td> 
     </tr>
       <tr>
       <td>41.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 21/Image Rotate 90 Degree Anticlock.py"</a>  GFG - Image Rotate 90 degree anticlockwise </ td>  
+       <td> GeekForGeeks </ td> 
     </tr>
       <tr>
       <td>42.</td>
-       <td rowspan = "2"> Day 21 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td rowspan = "2"> Day 22 </ td>  
+       <td><a href="Day 22/max non negative subarray.py"</a>Max Non Negative SubArray</td>
+       <td> InterviewBit </ td> 
     </tr>
       <tr>
       <td>43.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 22/Add One to Number.py"</a> Add One to Number</ td>  
+       <td> InterviewBit </ td> 
     </tr>
       <tr>
-      <td>32.</td>
-       <td rowspan = "2"> Day 22 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+      <td>44.</td>
+       <td rowspan = "3"> Day 23 </ td>  
+       <td><a href="Day 23/973. K Closest Points to Origin.py"</a>973. K Closest Points to Origin</td>
+       <td> Leetcode </ td> 
     </tr>
       <tr>
-      <td>33.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+      <td>45.</td>
+       <td> <a href="Day 23/347. Top K Frequent Elements.py"</a> 347. Top K Frequent Elements </ td>  
+       <td> Leetcode  </ td> 
     </tr>
       <tr>
-      <td>32.</td>
-       <td rowspan = "2"> Day 23 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+      <td>46.</td>
+       <td> <a href="Day 23/451. Sort Characters By Frequency.py"</a> 451. Sort Characters By Frequency </ td>  
+       <td> Leetcode  </ td> 
     </tr>
       <tr>
-      <td>33.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
-    </tr>
-      <tr>
-      <td>32.</td>
+      <td>47.</td>
        <td rowspan = "2"> Day 24 </ td>  
+       <td><a href="Day 24/Sorting by picking One element.py"</a>Check if an Array can be Sorted by picking only the corner Array elements</td>
+       <td> GeekForGeeks </ td> 
+    </tr>
+      <tr>
+      <td>48.</td>
+       <td> <a href="Day 24/Minimum Loss.py"</a> Minimum Loss</ td>  
+       <td> Hackerrank </ td> 
+    </tr>
+      <tr>
+      <td>49.</td>
+       <td rowspan = "3"> Day 25 </ td>  
+       <td><a href="Day 25/Sort Linked List.py"</a>Sort Linked List</td>
+       <td> InterviewBit </ td> 
+    </tr>
+      <tr>
+      <td>50.</td>
+       <td> <a href="Day 25/20 Valid Paranthesis.py"</a> 20. Valid Parantheses</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+       <tr>
+      <td>51.</td>
+       <td> <a href="Day 25/894. All Possible Full Binary Trees.py"</a>894. All Possible Full Binary Trees </ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <tr>
+      <td>52.</td>
+       <td rowspan = "3"> Day 26 </ td>  
        <td><a href=""></a></td>
        <td>  </ td> 
     </tr>
       <tr>
-      <td>33.</td>
+      <td>53.</td>
+       <td> <a href=""></a> </ td>  
+       <td>  </ td> 
+    </tr>
+       <tr>
+      <td>54.</td>
+       <td> <a href=""></a> </ td>  
+       <td>  </ td> 
+    </tr>
+       <tr>
+      <td>55.</td>
+       <td rowspan = "3"> Day 27 </ td>  
+       <td><a href=""></a></td>
+       <td>  </ td> 
+    </tr>
+      <tr>
+      <td>56.</td>
+       <td> <a href=""></a> </ td>  
+       <td>  </ td> 
+    </tr>
+       <tr>
+      <td>57.</td>
        <td> <a href=""></a> </ td>  
        <td>  </ td> 
     </tr>
       <tr>
-      <td>32.</td>
-       <td rowspan = "2"> Day 25 </ td>  
+      <td>58.</td>
+       <td rowspan = "3"> Day 28 </ td>  
        <td><a href=""></a></td>
        <td>  </ td> 
     </tr>
       <tr>
-      <td>33.</td>
+      <td>59.</td>
+       <td> <a href=""></a> </ td>  
+       <td>  </ td> 
+    </tr>
+       <tr>
+      <td>60.</td>
        <td> <a href=""></a> </ td>  
        <td>  </ td> 
     </tr>
