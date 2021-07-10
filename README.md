@@ -1,5 +1,5 @@
 <h1 align="center"> 
-100 Days of Coding
+100 Days of < /CODING>
 </h1>
 <h5 align="center">
 Starting from : 05 May, 2021
