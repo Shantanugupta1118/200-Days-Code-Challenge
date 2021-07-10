@@ -1,3 +1,6 @@
+// GitHub ID: @Shantanugupta1118
+// Day 8 of 100
+// An Interesting Sequence   -  codechef/MAY21
 
 #include<bits/stdc++.h>
 

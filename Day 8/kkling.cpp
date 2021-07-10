@@ -1,3 +1,8 @@
+// GitHub ID: @Shantanugupta1118
+// Day 8 of 100
+// King Killing   -  codechef/MAY21
+
+
 #include<bits/stdc++.h>
 
 using namespace std;

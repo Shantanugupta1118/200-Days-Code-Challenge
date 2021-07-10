@@ -1,3 +1,9 @@
+// GitHub ID: @Shantanugupta1118
+// Day 8 of 100
+// Modular Equation   -  codechef/MAY21
+
+
+
 #include<iostream>
 #include<bits/stdc++.h>
 #define ll long long

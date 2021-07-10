@@ -1,4 +1,6 @@
-
+# // GitHub ID: @Shantanugupta1118
+# // Day 8 of 100
+# // Tic Tac Toe   -  codechef/MAY21
 
 def row_win(r):
     if r[0]==r[1] and r[1]==r[2] and r[0]!="_":

@@ -1,4 +1,6 @@
-
+# // GitHub ID: @Shantanugupta1118
+# // Day 8 of 100
+# // Xor Equality   -  codechef/MAY21
 
 MOD = 10**9+7
 
