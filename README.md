@@ -7,6 +7,13 @@ Starting from : 05 May, 2021
 <h4 align="center">
   Total Problem Submissions: <b>79</b>
 </h4>
+<!-- platform -->
+<h3 align="center">Coding Platform ID</h3>
+<!-- InterviewBit -->
+<div align="center">
+<a href="google.com" target="_blank"> <img src="https://i0.wp.com/blog.interviewbit.com/wp-content/uploads/2017/11/cropped-logo-transparent4.png?ssl=1" alt="interviewBit" width="65" height="60"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Leetcode --><a href="google.com" target="_blank"> <img src="https://miro.medium.com/max/1838/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="interviewBit" width="100" height="45"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- CodeChef --><a href="google.com" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="interviewBit" width="100" height="45"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Hackerrank --><a href="google.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="interviewBit" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Hackerrank --><a href="google.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="interviewBit" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<!-- Platform -->
 
 ## Contents
 
@@ -453,11 +460,6 @@ Starting from : 05 May, 2021
 <p align="center">
 Last Updated : 12 July, 2021
 </p>
-
-<!-- InterviewBit -->
-<a href="google.com" target="_blank"> <img src="http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png" alt="interviewBit" width="60" height="60"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Leetcode --><a href="google.com" target="_blank"> <img src="https://miro.medium.com/max/1838/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="interviewBit" width="100" height="45"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- CodeChef --><a href="google.com" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="interviewBit" width="100" height="45"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Hackerrank --><a href="google.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="interviewBit" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Hackerrank --><a href="google.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="interviewBit" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
