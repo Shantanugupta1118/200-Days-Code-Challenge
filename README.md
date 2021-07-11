@@ -454,8 +454,10 @@ Starting from : 05 May, 2021
 Last Updated : 12 July, 2021
 </p>
 
+<!-- InterviewBit -->
+<a href="google.com" target="_blank"> <img src="http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png" alt="interviewBit" width="60" height="60"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Leetcode --><a href="google.com" target="_blank"> <img src="https://miro.medium.com/max/1838/1*gBkMCGTAdSk4tu17SCa7RQ.png" alt="interviewBit" width="100" height="45"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- CodeChef --><a href="google.com" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="interviewBit" width="100" height="45"/>  </a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Hackerrank --><a href="google.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="interviewBit" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<!-- Hackerrank --><a href="google.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="interviewBit" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="google.com" target="_blank"> <img src="http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png" alt="interviewBit" width="35" height="35"/>  </a>
+
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
