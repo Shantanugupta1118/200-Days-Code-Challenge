@@ -303,7 +303,7 @@ Starting from : 05 May, 2021
     </tr>
       <tr>
       <td>52.</td>
-       <td rowspan = "3"> Day 26 </ td>  
+       <td> Day 26 </ td>  
        <td><a href="Day 26/78. Subsets.py"</a>78. Subsets</td>
        <td> Leetcode </ td> 
     </tr>
