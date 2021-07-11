@@ -304,50 +304,40 @@ Starting from : 05 May, 2021
       <tr>
       <td>52.</td>
        <td rowspan = "3"> Day 26 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
-    </tr>
-      <tr>
-      <td>53.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td><a href="Day 26/78. Subsets.py"</a>78. Subsets</td>
+       <td> Leetcode </ td> 
     </tr>
        <tr>
+      <td>53.</td>
+       <td rowspan = "3"> Day 27 </ td>  
+       <td><a href="Day 27/rearrange-string-k-distance.py"</a>358. Re-arrange strgin k distance</td>
+       <td> Leetcode </ td> 
+    </tr>
+      <tr>
       <td>54.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 27/106. Construct Binary Tree from Inorder and Postorder Traversal.py"</a> 106. Construct Binary Tree from Inorder and Postorder Traversal </ td>  
+       <td> Leetcode </ td> 
     </tr>
        <tr>
       <td>55.</td>
-       <td rowspan = "3"> Day 27 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
-    </tr>
-      <tr>
-      <td>56.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
-    </tr>
-       <tr>
-      <td>57.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 27/Longest Common Prefix.py"</a>Longest Commont Prefix </ td>  
+       <td> interviewBit </ td> 
     </tr>
       <tr>
       <td>58.</td>
        <td rowspan = "3"> Day 28 </ td>  
-       <td><a href=""></a></td>
-       <td>  </ td> 
+       <td><a href="Day 28/maximum sum triplet.py"</a>Maximum Sum Triplet</td>
+       <td>InterviewBit</ td> 
     </tr>
       <tr>
       <td>59.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 28/maximum sum triplet.py"></a> Maximum Sum Triplet</ td>  
+       <td> InterviewBit </ td> 
     </tr>
        <tr>
       <td>60.</td>
-       <td> <a href=""></a> </ td>  
-       <td>  </ td> 
+       <td> <a href="Day 28/42. Trapping Rain Water.py"</a>42. Trapping Rain Water </ td>  
+       <td> Leetcode </ td> 
     </tr>
 </table>
 
