@@ -7,6 +7,8 @@ Starting from : 05 May, 2021
 <h4 align="center">
   Total Problem Submissions: <b>79</b>
 </h4>
+
+----
 <!-- platform -->
 <h3 align="center">Coding Platform ID</h3>
 <!-- InterviewBit -->
@@ -15,6 +17,7 @@ Starting from : 05 May, 2021
 </div>
 <!-- Platform -->
 
+---
 ## Contents
 
 <table width=500px>
@@ -457,6 +460,7 @@ Starting from : 05 May, 2021
     </tr>
 </table>
 
+---
 <p align="center">
 Last Updated : 12 July, 2021
 </p>
