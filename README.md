@@ -331,7 +331,7 @@ Starting from : 05 May, 2021
     </tr>
       <tr>
       <td>59.</td>
-       <td> <a href="Day 28/maximum sum triplet.py"></a> Maximum Sum Triplet</ td>  
+       <td> <a href="Day 28/Array 3 Pointer.py"</a> Array 3 Pointer</ td>  
        <td> InterviewBit </ td> 
     </tr>
        <tr>
