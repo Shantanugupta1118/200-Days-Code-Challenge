@@ -339,6 +339,55 @@ Starting from : 05 May, 2021
        <td> <a href="Day 28/42. Trapping Rain Water.py"</a>42. Trapping Rain Water </ td>  
        <td> Leetcode </ td> 
     </tr>
+      <tr>
+      <td>61.</td>
+       <td rowspan = "3"> Day 29 </ td>  
+       <td><a href="Day 29/3Sum-Closes.py"</a>16. 3Sum-Closes</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>62.</td>
+       <td> <a href="Day 29/Pick from both sides!.py"</a> Pick from both sides!</ td>  
+       <td> InterviewBit </ td> 
+    </tr>
+       <tr>
+      <td>63.</td>
+       <td> <a href="Day 29/partition.py"</a>Partition </ td>  
+       <td> InterviewBit </ td> 
+    </tr>
+      <tr>
+      <td>64.</td>
+       <td rowspan = "2"> Day 30 </ td>  
+       <td><a href="Day 30/remove duplicates ii.py"</a>80. Remove Duplicates from Sorted Array II</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>65.</td>
+       <td> <a href="Day 30/partition.py"</a> Partition </ td>  
+       <td> InterviewBit </ td> 
+    </tr>
+    <tr>
+      <td>66.</td>
+      <td> Day 31 </ td>
+       <td> <a href="Day 31/Minimum Lights to Activate.py"</a> Minimum Lights to Activate</ td>  
+       <td> InterviewBit </ td> 
+    </tr>
+      <tr>
+      <td>67.</td>
+       <td rowspan = "3"> Day 32 </ td>  
+       <td><a href="Day 32/remove nth node.py"</a>19. Remove Nth Node From End of List</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>68.</td>
+       <td> <a href="Day 32/Locking the tree space.py"</a> Locking the tree space.py</ td>  
+       <td> JusPay </ td> 
+    </tr>
+       <tr>
+      <td>69.</td>
+       <td> <a href="Day 32/Minimum Number of Refueling Stops.py"</a>Minimum Number of Refueling Stops </ td>  
+       <td> Leetcode </ td> 
+    </tr>
 </table>
 
 <p align="center">
