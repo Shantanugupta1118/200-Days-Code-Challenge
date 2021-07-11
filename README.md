@@ -5,7 +5,7 @@
 Starting from : 05 May, 2021
 </h5>
 <h4 align="center">
-  Total Problem Submissions: <b>70</b>
+  Total Problem Submissions: <b>79</b>
 </h4>
 
 ## Contents
@@ -394,10 +394,64 @@ Starting from : 05 May, 2021
        <td> <a href="Day 32/Minimum Number of Refueling Stops.py"</a>Minimum Number of Refueling Stops </ td>  
        <td> Leetcode </ td> 
     </tr>
+      <tr>
+      <td>70.</td>
+       <td rowspan = "2"> Day 33 </ td>  
+       <td><a href="Day 33/binary balance.py"</a>Binary Balance</td>
+       <td>Hackerrank</ td> 
+    </tr>
+      <tr>
+      <td>71.</td>
+       <td> <a href="Day 33/largest Number.py"</a>largest Number</ td>  
+       <td> Hackerrank </ td> 
+    </tr>
+    <tr>
+      <td>72.</td>
+       <td rowspan = "3"> Day 34 </ td>  
+       <td><a href="Day 34/meeting_room i.py"</a>252. Meeting Room I</td>
+       <td>Leetcode/LintCode</ td> 
+    </tr>
+      <tr>
+      <td>73.</td>
+       <td> <a href="Day 34/meeting_room ii.py"</a>253. Meeting Room II</ td>  
+       <td> Leetcode/Lintcode </ td> 
+    </tr>
+       <tr>
+      <td>74.</td>
+       <td> <a href="Day 34/palindrome pairs.py"</a>Palindrom-pairs </ td>  
+       <td> Leetcode </ td> 
+    </tr>
+    <tr>
+      <td>75.</td>
+       <td rowspan = "3"> Day 35 </ td>  
+       <td><a href="Day 35/primes sum.py"</a>Primes Sum</td>
+       <td>InterviewBit</ td> 
+    </tr>
+      <tr>
+      <td>76.</td>
+       <td> <a href="Day 35/24 - Swaps Nodes in Pairs.py"</a>24. Swap Nodes in Pairs</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+       <tr>
+      <td>77.</td>
+       <td> <a href="Day 35/Vowel and Consonant Substrings.py"</a>Vowel and Consonant Substrings! </ td>  
+       <td> InterviewBit </ td> 
+    </tr>
+    <tr>
+      <td>78.</td>
+       <td rowspan = "2"> Day 36 </ td>  
+       <td><a href="Day 36/jim and order.py"</a>Jim and Order</td>
+       <td>Hackerrank</ td> 
+    </tr>
+      <tr>
+      <td>79.</td>
+       <td> <a href="Day 36/ice cream parlour.py"</a>Ice Cream Parlour.py</ td>  
+       <td> Hackerrank </ td> 
+    </tr>
 </table>
 
 <p align="center">
-Last Updated : 11 July, 2021
+Last Updated : 12 July, 2021
 </p>
 
 <p align="center">
