@@ -5,7 +5,7 @@
 Starting from : 05 May, 2021
 </h5>
 <h4 align="center">
-  Total Problem Submissions: <b>51</b>
+  Total Problem Submissions: <b>70</b>
 </h4>
 
 ## Contents
