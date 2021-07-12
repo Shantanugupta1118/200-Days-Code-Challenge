@@ -1,8 +1,16 @@
-# Isomorphic Strings - Leetcode/July
+# Github: Shantanugupta1118
+# DAY 56 of DAY 100
+# 205. Isomorphic Strings - Leetcode/July
 # https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/609/week-2-july-8th-july-14th/3811/
 
 
-from collections import  defaultdict
+# ----- Passed 31/39 Test Cases --------------
+#  Failed for TC
+#    IP:
+#           s = "BADC", t = "BABA"
+#   OP:
+#           Expected:   True, returned False
+"""
 class Solution:
     def Isomorphic(self, s, t):
         dic = {}
@@ -19,6 +27,12 @@ class Solution:
         if interrupted:
             return False
         return True
+"""
+
+
+class Solution:
+    def Isomorphic(self, s, t):
+        return [s.find(i) for i in s] == [t.find(i) for i in t]
 
 
 s = "egg"

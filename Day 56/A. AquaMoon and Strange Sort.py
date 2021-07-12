@@ -1,5 +1,5 @@
-
-
+# Github: Shantanugupta1118
+# DAY 56 of DAY 100
 # A. AquaMoon and Strange Sort -- Codeforces
 # https://codeforces.com/contest/1545/problem/A
 
