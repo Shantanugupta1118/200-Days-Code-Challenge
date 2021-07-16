@@ -455,8 +455,145 @@ Starting from : 05 May, 2021
     </tr>
       <tr>
       <td>79.</td>
-       <td> <a href="Day 36/ice cream parlour.py"</a>Ice Cream Parlour.py</ td>  
+       <td> <a href="Day 36/ice cream parlour.py"</a>Ice Cream Parlour</ td>  
        <td> Hackerrank </ td> 
+    </tr>
+    <tr>
+      <td>80.</td>
+       <td rowspan = "2"> Day 37 </ td>  
+       <td><a href="Day 37/Generate Parantheses.py"</a>22. Paranthese Generate</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>81.</td>
+       <td> <a href="Day 37/find square root using binary search.py"</a>69. Sqrt(x)</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+    <tr>
+      <td>82.</td>
+       <td rowspan = "3"> Day 38 </ td>  
+       <td><a href="Day 38/Maximum square submatrix in matrix.py"</a>Maximum square submatrix in matrix</td>
+       <td>GeekforGeeks</ td> 
+    </tr>
+      <tr>
+      <td>83.</td>
+       <td> <a href="Day 38/Number of Subarrays with Bounded Maximum.py"</a>795. Number of Subarrays with Bounded Maximum</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <tr>
+      <td>84.</td>
+       <td> <a href="Day 38/range sum query - Mutable.py"</a>307. Range Sum Query</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <td>85.</td>
+       <td rowspan = "2"> Day 39 </ td>  
+       <td><a href="Day 39/Max Non Negative SubArray.py"</a>Max Non Negative SubArray</td>
+       <td>InterviewBit</ td> 
+    </tr>
+      <tr>
+      <td>86.</td>
+       <td> <a href="Day 39/K Inverse Pairs.py"</a>629. K Inverse Pairs Array</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <td>87.</td>
+       <td rowspan = "2"> Day 40 </ td>  
+       <td><a href="Day 40/Reverse-LinkedList - Recursive.py"</a>Reverse LinkedList Iterative</td>
+       <td>InterviewBit</ td> 
+    </tr>
+      <tr>
+      <td>88.</td>
+       <td> <a href="Day 40/Reverse-LinkedList - Iterative.py"</a>Reverse LinkedList Iterative</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+    </tr>
+      <td>89.</td>
+       <td rowspan = "2"> Day 41 </ td>  
+       <td><a href="Day 41/Pascals Triangle.py"</a>118. Pascal's Triangle</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>90.</td>
+       <td> <a href="Day 41/Pascals Triangle-ii.py"</a>119. Pascal's Triangle II</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+    </tr>
+      <td>91.</td>
+       <td rowspan = "5"> Day 42 </ td>  
+       <td><a href="Day 42/removeDuplicate Nodes.py"</a>83. Remove Duplicates from Sorted List</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>92.</td>
+       <td> <a href="Day 42/Group Anagram.py"</a>49. Group Anagrams</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <tr>
+      <td>93.</td>
+       <td> <a href="Day 42/Minimum Window Substreing.py"</a>76. Minimum Window Substring</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <tr>
+      <td>94.</td>
+       <td> <a href="Day 42/Rotate Image.py"</a>48. Rotate Image</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <tr>
+      <td>95.</td>
+       <td> <a href="Day 42/remove duplicate nodes ii.py"</a>83. Remove Duplicates from Sorted List</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+    </tr>
+      <td>96.</td>
+       <td> Day 43 </ td>  
+       <td><a href="Day 43/Copy List with Random Pointer.py"</a>138. Copy List with Random Pointer</td>
+       <td>InterviewBit</ td> 
+    </tr>
+</tr>
+      <td>97.</td>
+       <td rowspan = "2"> Day 44 </ td>  
+       <td><a href="Day 44/141. Linked List Cycle.py"</a>142. Linked List Cycle I</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>98.</td>
+       <td> <a href="Day 44/142. Linked List Cycle II.py"</a>141. Linked List Cycle II</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+      <td>99.</td>
+       <td> Day 45 </ td>  
+       <td><a href="Day 45/962. Maximum Width Ramp.py"</a>962. Maximum Width Ramp </td>
+       <td>Leetcode</ td> 
+    </tr>
+      <td>100.</td>
+       <td> Day 46 </ td>  
+       <td><a href="Day 46/Count of Smaller Numbers After Self.py"</a>315. Count of Smaller Numbers After Self</td>
+       <td>Leetcode</ td> 
+    <tr>
+   <td>101.</td>
+       <td rowspan = "3"> Day 47 </ td>  
+       <td><a href="Day 47/Solution01.py"</a>Juspay Solution 1</td>
+       <td>Juspay Hiring</ td> 
+    </tr>
+      <tr>
+      <td>102.</td>
+       <td> <a href="Day 47/Solution02.cpp"</a>Juspay Solution 2</ td>  
+       <td> Juspay Hiring </ td> 
+    </tr>
+      <tr>
+      <td>103.</td>
+       <td> <a href="Day 47/Solution03.py"</a>Juspay Solution 3</ td>  
+       <td> Juspay Hiring </ td> 
+    </tr>
+    <tr>
+   <td>104.</td>
+       <td rowspan = "2"> Day 48 </ td>  
+       <td><a href="Day 48/Flood Fill.py"</a>733. Flood Fill</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>105.</td>
+       <td> <a href="Day 48/463. Island Perimeter.py"</a>463. Island Perimeter</ td>  
+       <td> Leetcode </ td> 
     </tr>
 </table>
 
