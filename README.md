@@ -542,31 +542,30 @@ Starting from : 05 May, 2021
        <td> <a href="Day 42/remove duplicate nodes ii.py"</a>83. Remove Duplicates from Sorted List</ td>  
        <td> Leetcode </ td> 
     </tr>
-    </tr>
+    <tr>
       <td>96.</td>
-       <td> Day 43 </ td>  
+       <td> Day 43 </td>  
        <td><a href="Day 43/Copy List with Random Pointer.py"</a>138. Copy List with Random Pointer</td>
        <td>InterviewBit</ td> 
     </tr>
-</tr>
-      
+      <tr>
       <td>97.</td>
-       <td rowspan = "4"> Day 44 </ td>  
+       <td rowspan = "2"> Day 44 </ td>  
        <td><a href="Day 44/141. Linked List Cycle.py"</a>142. Linked List Cycle I</td>
        <td>Leetcode</ td> 
-    </tr>
+      </tr>
       <tr>
       <td>98.</td>
        <td> <a href="Day 44/142. Linked List Cycle II.py"</a>141. Linked List Cycle II</ td>  
        <td> Leetcode </ td> 
-    </tr><td>
+    </tr>
       <td>99.</td>
-       <td> Day 45 </ td>  
+       <td> Day 45 </td>  
        <td><a href="Day 45/962. Maximum Width Ramp.py"</a>962. Maximum Width Ramp </td>
-       <td>Leetcode</ td> 
-    </tr><td>
+       <td>Leetcode</td> 
+    </tr>
       <td>100.</td>
-       <td> Day 46 </ td>  
+       <td> Day 46 </td>  
        <td><a href="Day 46/Count of Smaller Numbers After Self.py"</a>315. Count of Smaller Numbers After Self</td>
        <td>Leetcode</ td> 
     <tr>
