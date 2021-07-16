@@ -5,7 +5,7 @@
 Starting from : 05 May, 2021
 </h5>
 <h4 align="center">
-  Total Problem Submissions: <b>79</b>
+  Total Problem Submissions: <b>105</b>
 </h4>
 
 ----
@@ -599,7 +599,7 @@ Starting from : 05 May, 2021
 
 ---
 <p align="center">
-Last Updated : 12 July, 2021
+Last Updated : 17 July, 2021
 </p>
 <p align="center">
 Please ⭐ this repository if you loved it !
