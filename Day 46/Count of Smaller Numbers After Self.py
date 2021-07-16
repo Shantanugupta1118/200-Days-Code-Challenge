@@ -1,5 +1,5 @@
 # Github: Shantanugupta1118
-# DAY 42 of DAY 100
+# DAY 46 of DAY 100
 # Count of Smaller Numbers After Self - Leetcode/june21
 # https://leetcode.com/explore/featured/card/june-leetcoding-challenge-2021/606/week-4-june-22nd-june-28th/3792/
 
