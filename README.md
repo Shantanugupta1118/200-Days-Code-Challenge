@@ -2,10 +2,10 @@
 100 Days of < /CODING>
 </h1>
 <h5 align="center">
-Starting from : 05 May, 2021
+Starting from : 05 May, 2021  
 </h5>
 <h4 align="center">
-  Total Problem Submissions: <b>105</b>
+  Total Problem Submissions: <b>110</b>
 </h4>
 
 ----
@@ -558,12 +558,12 @@ Starting from : 05 May, 2021
       <td>98.</td>
        <td> <a href="Day 44/142. Linked List Cycle II.py"</a>141. Linked List Cycle II</ td>  
        <td> Leetcode </ td> 
-    </tr>
+    </tr><td>
       <td>99.</td>
        <td> Day 45 </ td>  
        <td><a href="Day 45/962. Maximum Width Ramp.py"</a>962. Maximum Width Ramp </td>
        <td>Leetcode</ td> 
-    </tr>
+    </tr><td>
       <td>100.</td>
        <td> Day 46 </ td>  
        <td><a href="Day 46/Count of Smaller Numbers After Self.py"</a>315. Count of Smaller Numbers After Self</td>
@@ -593,6 +593,34 @@ Starting from : 05 May, 2021
       <tr>
       <td>105.</td>
        <td> <a href="Day 48/463. Island Perimeter.py"</a>463. Island Perimeter</ td>  
+       <td> Leetcode </ td> 
+    </tr>
+    <tr>
+   <td>106.</td>
+       <td rowspan = "2"> Day 49 </ td>  
+       <td><a href="Day 49/Solution01.py"</a>Solution 01</td>
+       <td>Juspay Hiring</ td> 
+    </tr>
+      <tr>
+      <td>107.</td>
+       <td> <a href="Day 49/Solution02.py"</a>Solution 02</ td>  
+       <td> Juspay Hiring </ td> 
+    </tr>
+    <tr>
+   <td>108.</td>
+       <td> Day 50 </ td>  
+       <td><a href="Day 50/86. Partition List.py"</a>86. Partition List</td>
+       <td>Leetcode</ td> 
+    </tr>
+    <tr>
+   <td>109.</td>
+       <td rowspan = "2"> Day 51 </ td>  
+       <td><a href="Day 51/Resize the matrix.py"</a>566. Reshape the Matrix</td>
+       <td>Leetcode</ td> 
+    </tr>
+      <tr>
+      <td>110.</td>
+       <td> <a href="Day 51/Count Vowels Permutation.py"</a>1220. Count Vowels Permutation</ td>  
        <td> Leetcode </ td> 
     </tr>
 </table>
