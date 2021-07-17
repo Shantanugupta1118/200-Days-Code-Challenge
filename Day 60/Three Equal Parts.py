@@ -1,5 +1,5 @@
 # Github: Shantanugupta1118
-# DAY 59 of DAY 100
+# DAY 60 of DAY 100
 # 927. Three Equal Parts  -  Leetcode/July
 # https://leetcode.com/problems/three-equal-parts/
 
