@@ -3,6 +3,7 @@
 </h1>
 <h5 align="center">
 Starting from : 05 May, 2021  
+Inactive: from 19 July, 2021 - 
 </h5>
 <h4 align="center">
   Total Problem Submissions: <b>110</b>
