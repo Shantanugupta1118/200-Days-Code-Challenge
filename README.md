@@ -2,8 +2,9 @@
 100 Days of < /CODING>
 </h1>
 <h5 align="center">
-Starting from : 05 May, 2021  
-Inactive: from 19 July, 2021 - 
+Starting from : 05 May, 2021  |
+Inactive: from 19 July, 2021 - 31 July, 2021  |
+Resume: 1 Aug, 2021
 </h5>
 <h4 align="center">
   Total Problem Submissions: <b>110</b>
