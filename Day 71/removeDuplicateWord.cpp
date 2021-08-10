@@ -27,12 +27,12 @@ using namespace std;
 
 
 void removeDuplicateWord(string str)    {
+    // Handling Cases (convert all strings from upper case to lower case)
     for(int i=1; i<str.length(); i++) {
         str[i] = tolower(str[i]);
     }
     istringstream ss(str);
     unordered_set<string> hashmap_str;
-    // transform(ss.begin(),ss.end(), ss.begin(), ::tolower);
 
     do {
         string word;
@@ -48,10 +48,12 @@ void removeDuplicateWord(string str)    {
 
 /*---Main Driver---*/
 int main() {
+    // Input/Output Datas
     #ifndef ONLINE_JUDGE
         freopen("E:/CodeWork/testcase/input.txt", "r", stdin);
         freopen("E:/CodeWork/testcase/output.txt", "w", stdout);
     #endif 
+
     int test_case; cin>>test_case;
     while(test_case>0) {
         string s;
