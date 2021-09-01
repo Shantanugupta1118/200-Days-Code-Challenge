@@ -6,7 +6,6 @@
 class Solution:
     def solve(self, s):
         res = ""
-        for i in s:
             asci = ord(i)
             suffix = asci - 97
             prefix = 122 - suffix
