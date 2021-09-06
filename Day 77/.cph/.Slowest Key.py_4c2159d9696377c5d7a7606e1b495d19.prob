@@ -1,0 +1,1 @@
+{"name":"Local: Slowest Key","url":"e:\\CodeWork\\100 Days Code Challenge\\Day 77\\Slowest Key.py","tests":[{"id":1630918870057,"input":"1 2\n\"ba\"","output":"b"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeWork\\100 Days Code Challenge\\Day 77\\Slowest Key.py","group":"local","local":true}
