@@ -1,5 +1,5 @@
 # Github: Shantanugupta1118
-# DAY 65 of DAY 100
+# DAY 77 of DAY 100
 
 class Solution:
     def solve(self, s):
@@ -15,7 +15,6 @@ class Solution:
                 characters.add(s[right])
                 right += 1
                 ans = max(ans, right - left)
-
         return ans
 
 s = input()
