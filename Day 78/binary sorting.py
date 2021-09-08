@@ -4,6 +4,7 @@
 # https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
 
 
+
 class Solution:
     def solve(self, s):
         ret = len(s)
