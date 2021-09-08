@@ -1,5 +1,8 @@
 # Github: Shantanugupta1118
-# DAY 65 of DAY 100
+# DAY 78 of DAY 100
+# 1888. Minimum Number of Flips to Make the Binary String Alternating - Leetcode
+# https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
+
 
 class Solution:
     def solve(self, s):
