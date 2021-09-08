@@ -12,6 +12,8 @@ class Solution:
                 times[t] = [keyPress[i]]
         keys = times[max(times.keys())]
         return max(keys)
+
+        
         # diff = time[0]
         # idx = 0
         # for i in range(1, len(time)):
