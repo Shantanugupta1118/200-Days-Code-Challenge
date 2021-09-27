@@ -17,6 +17,8 @@ class Solution:
             dp[i] = dp[i-3]+dp[i-2]+dp[i-1]
         return dp[-1]
         '''
+
+        # ------- Recursive Method using Cache - 20ms  ---------
     @lru_cache
     def tribonacci(self, n: int) -> int:
         if n<1: return 0
