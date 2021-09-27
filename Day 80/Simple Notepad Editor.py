@@ -6,7 +6,7 @@ import sys
 
 class notepad:
     def __init__(self):
-        self.cache = []
+        self.cache = [] 
         self.ans = ""
         
     def append(self, value):
