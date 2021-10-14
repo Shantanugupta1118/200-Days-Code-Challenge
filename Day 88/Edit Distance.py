@@ -1,6 +1,6 @@
 # Github: Shantanugupta1118
 # DAY 88 of DAY 100
-# Edit Distance - Leetcode
+# Edit Distance - InterviewBit
 
 
 class Solution:
