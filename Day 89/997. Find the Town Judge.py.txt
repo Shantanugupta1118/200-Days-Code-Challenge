@@ -1,0 +1,15 @@
+# Github: Shantanugupta1118
+# DAY 89 of DAY 100
+# 97. Find the town judge 
+# https://leetcode.com/problems/find-the-town-judge/
+
+
+
+class Solution:
+    def findJudge(self, n: int, trust: List[List[int]]) -> int:
+        if not trust and n==1: return 1
+        cands = [0]*(n+1)
+        for i, j in trust:
+            cands[j] += 1
+            cands[i] -= 1
+        return cands.index(n-1) if n-1 in cands else -1
