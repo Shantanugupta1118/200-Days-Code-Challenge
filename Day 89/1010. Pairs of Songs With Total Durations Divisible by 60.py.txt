@@ -1,0 +1,21 @@
+# Github: Shantanugupta1118
+# DAY 89 of DAY 100
+# 1010. Pairs of Songs With Total Durations Divisible by 60
+# https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+
+
+class Solution:
+    def numPairsDivisibleBy60(self, times: List[int]) -> int:
+        n = 60                         
+        res = 0
+        mod = [0 for i in range(n)]
+        for i in range(len(times)):
+            mod[times[i] % n] += 1
+        for i in range(n//2+1):
+            if i == 0:
+                res += mod[i]*(mod[i]-1)//2
+            elif n%2 == 0 and i == n/2:
+                res += mod[i]*(mod[i]-1)//2
+            else:
+                res += mod[i]*mod[n-i]
+        return res
