@@ -1,0 +1,33 @@
+#Shantanugupta1118
+#Day 99 of 100
+# 1345. Jump Game IV
+
+
+class Solution:
+    def minJumps(self, arr: List[int]) -> int:
+        N, grps = len(arr), defaultdict(list)
+
+        for i, el in enumerate(arr): 
+            grps[el].append(i)
+
+        vis, vis_grps = set(), set()
+        
+        def bfs(lvl, dist):
+            nextLvl = set()
+            
+            for i in lvl:
+                if i in vis: continue
+                if i == N-1: return dist
+                
+                vis.add(i)
+                
+                if i: nextLvl.add(i-1)
+                if i+1 < N: nextLvl.add(i+1)
+                
+                if not arr[i] in vis_grps:
+                    vis_grps.add(arr[i])
+                    nextLvl.update(grps[arr[i]])
+            
+            return bfs(nextLvl, dist + 1)
+            
+        return bfs(set([0]), 0)
