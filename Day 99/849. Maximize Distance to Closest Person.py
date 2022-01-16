@@ -28,5 +28,6 @@ class Solution:
                 length_of_setseat.add(j-p)
                 p = j
         return max(length_of_setseat)//2
+        
 
 print(Solution().maxDistance([1,0,0,0,1,0,1]))
