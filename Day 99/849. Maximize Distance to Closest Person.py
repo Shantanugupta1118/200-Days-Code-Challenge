@@ -12,7 +12,7 @@ class Solution:
         k = 0
         if x[0]==0:
             i = 1
-            while i<1 and x[i]==0:
+            while i<length_of_seats and x[i]==0:
                 i += 1
             length_of_setseat.add(i+i)
             k = i
