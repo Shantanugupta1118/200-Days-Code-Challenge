@@ -1,5 +1,5 @@
 # Github: Shantanugupta1118
-# DAY 55 of DAY 100
+# DAY 100 of DAY 100
 # 605. Can Place Flowers - Leetcode
 
 class Solution:
