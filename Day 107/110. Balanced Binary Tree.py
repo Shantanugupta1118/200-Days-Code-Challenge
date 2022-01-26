@@ -12,15 +12,25 @@ class TreeNode:
 
 
 class Solution:
-    def getAllElements(self, root1, root2):
-        arr1, arr2 = [], []
-        self.inorder(root1, arr1)
-        self.inorder(root2, arr2)
-        print(arr1, arr2)
-        return sorted(arr1+arr2)
+    # ------- Check Height --------
+    def height(self, root):
+        if not root: return 0
+        return max(self.height(root.left), self.height(root.right)) + 1
+
+    # ----------- Check Balance of BST ----------
+    def checkBalance(self, root):
+        if not root:
+            return True
+        left_height = self.height(root.left)
+        right_height = self.height(root.right)
         
+        if abs(left_height-right_height <= 1) and self.checkBalance(root.left) and self.checkBalance(root.right):
+            return True
+        return False
+    
     def inorder(self, root, arr):
-        if not root: return
+        if not root:
+            return
         else:
             self.inorder(root.left, arr)
             arr.append(root.val)
@@ -63,8 +73,8 @@ arr2 = [9,6,2,4,74,1,2,5]
 n1 = len(arr2)
 root2 = Solution().constructBST(arr2, n1)
 
-root = Solution().getAllElements(root1, root2)
-print("Merged BST: ", root)
+print("balance BST: ", Solution().checkBalance(root1))
+print("balance BST: ", Solution().checkBalance(root2))
     
     
     
