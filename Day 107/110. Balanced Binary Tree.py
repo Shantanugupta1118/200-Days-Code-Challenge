@@ -1,6 +1,6 @@
 # Github: Shantanugupta1118
 # DAY 107 of DAY 100
-#110. Balanced Binary Tree
+# 110. Balanced Binary Tree
 
 
 # Definition for a binary tree node.
@@ -18,6 +18,11 @@ class Solution:
         return max(self.height(root.left), self.height(root.right)) + 1
 
     # ----------- Check Balance of BST ----------
+    ''' 
+            First Approach --- 
+                Passed 183 cases out of 288
+    '''
+    '''
     def checkBalance(self, root):
         if not root:
             return True
@@ -27,6 +32,18 @@ class Solution:
         if abs(left_height-right_height <= 1) and self.checkBalance(root.left) and self.checkBalance(root.right):
             return True
         return False
+    '''
+    
+    # ---- Second Approach ---------
+    ''' Accepted all cases'''
+    def checkBalance(self, root):
+        if not root: return True
+        left_height = self.height(root.left)
+        right_height = self.height(root.right)
+        
+        if abs(left_height - right_height) > 1:
+            return False
+        return self.checkBalance(root.left) and self.checkBalance(root.right)
     
     def inorder(self, root, arr):
         if not root:
