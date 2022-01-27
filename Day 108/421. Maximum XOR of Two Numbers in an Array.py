@@ -26,7 +26,7 @@ class Solution:
     '''
     def maxXor(self, nums):
         res = 0
-        for i in reversed(range(0,32)):
+        for i in reversed(range(0,32)): 
             pref = set([num>>i for num in nums])
             print(pref, i, end=' ')
             res <<= 1
