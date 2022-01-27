@@ -4,6 +4,11 @@
 
 
 class Solution:
+    '''
+        Partial Accepted: TLE - 31/41
+        Brute Force
+    '''
+    '''
     def maxXor(self, nums):
         mx = -999
         n = len(nums)
@@ -12,7 +17,28 @@ class Solution:
                 if mx < nums[i]^nums[j]:
                     mx = nums[i]^nums[j]
         return mx
+    '''
     
+    
+    '''
+        Full Accepted:
+            Bit Manipulation Approach ---
+    '''
+    def maxXor(self, nums):
+        res = 0
+        for i in reversed(range(0,32)):
+            pref = set([num>>i for num in nums])
+            print(pref, i, end=' ')
+            res <<= 1
+            x = res+1
+            for pre in pref:
+                if x^pre in pref:
+                    res = x
+                    break
+            print(res)
+        return res
+        
+        
     
 print(Solution().maxXor([3,10,5,25,2,8]))
-print(Solution().maxXor([14,70,53,83,49,91,36,80,92,51,66,70]))
+#print(Solution().maxXor([14,70,53,83,49,91,36,80,92,51,66,70]))
