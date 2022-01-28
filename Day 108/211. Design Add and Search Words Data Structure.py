@@ -5,6 +5,8 @@
 
 import re
 
+'''
+#   Partial Accepted 
 class Solution:
     def __init__(self):
         self.words = []
@@ -25,8 +27,18 @@ class Solution:
             if word in self.words:
                 return True
             return False
-        
+'''
+
+
+class Solution:
+    def __init__(self):
+        self.words = " "
     
+    def addWord(self, word) ->None:
+        self.words += word + " "
+        
+    def search(self, word) -> bool:
+        return bool(re.search(" {}".format(word.replace('.',"[a-z]")), self.words))
     
 wordDic = Solution()
 wordDic.addWord("a")
