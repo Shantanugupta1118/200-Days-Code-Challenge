@@ -2,7 +2,9 @@
 # DAY 109 of DAY 200
 # 84. Largest Rectangle in Histogram
 
-
+'''
+    # Partially Accepted --
+    
 class Solution:
     def LargeHist(self, height):
         mx = max(height)
@@ -26,7 +28,7 @@ class Solution:
         temp = min_val*n
         mx = max(temp, mx)
         return mx
-        
+ '''       
     
 
 print(Solution().LargeHist([2,1,5,6,2,3]))
