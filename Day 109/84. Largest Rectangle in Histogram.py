@@ -30,6 +30,18 @@ class Solution:
         return mx
  '''       
     
+ 
+class Solution:
+    def LargeHist(self, height):
+        mx = 0
+        stack = []
+        height = height + [0]
+        for i in range(len(height)):
+            while stack and height[stack[-1]] > height[i]:
+                temp = height[stack.pop()]
+                mx = max(mx, temp*(i-stack[-1]-1) if stack else temp*i)
+            stack.append(i)
+        return mx
 
 print(Solution().LargeHist([2,1,5,6,2,3]))
 print(Solution().LargeHist([5,4,1,2]))
