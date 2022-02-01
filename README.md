@@ -637,6 +637,6 @@ Please ⭐ this repository if you loved it !
 <br>
 <b>Shantanu Gupta<b>
 <br>
-<a href="https://shantanugupta1118.github.io/NewtonsGravity/">Portfolio</a> | <a href="https://github.com/shantanugupta1118">Github</a> | <a href="https://www.linkedin.com/in/shang1118/">LinkedIn</a>
+<a href="http://www.helloshantanu.ml">Portfolio</a> | <a href="https://github.com/shantanugupta1118">Github</a> | <a href="https://www.linkedin.com/in/shang1118/">LinkedIn</a>
 </p>
 
