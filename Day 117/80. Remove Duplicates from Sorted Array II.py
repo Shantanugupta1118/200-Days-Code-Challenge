@@ -26,6 +26,7 @@ class Solution:
         return len(arr)
     '''
     
+    # Second Approach ---------------
     def solve(self, arr):
         n = len(arr)
         counter = Cnt(arr)
