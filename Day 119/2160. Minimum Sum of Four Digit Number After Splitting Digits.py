@@ -19,7 +19,6 @@ class Solution:
         #  Second Approach ----
         n = list(map(int, str(n)))
         n.sort()
-        print(n)
         return (n[0]+n[1])*10+n[2]+n[3]
     
 print(Solution().solve(2932))
