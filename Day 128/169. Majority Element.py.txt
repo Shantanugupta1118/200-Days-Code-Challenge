@@ -1,0 +1,13 @@
+#169. Majority Element
+
+
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        n = Counter(nums)
+        mx = -1
+        ele = -1
+        for i,k in n.items():
+            if k>mx:
+                mx = k
+                ele = i
+        return ele
