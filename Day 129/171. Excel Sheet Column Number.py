@@ -25,8 +25,8 @@ class Solution:
 
 print(Solution().titleToNumber("ABCDEFGHIJKLMNOPQRSTUVWXYZ"))
 print(Solution().titleToNumber("AB"))
-print(Solution().titleToNumber("YZ"))
-print(Solution().titleToNumber("ZY"))
+print(Solution().titleToNumber("AC"))
+print(Solution().titleToNumber("AD"))
 print(Solution().titleToNumber("FIG"))
 print(Solution().titleToNumber("RTYH"))
 print(Solution().titleToNumber("AA"))
