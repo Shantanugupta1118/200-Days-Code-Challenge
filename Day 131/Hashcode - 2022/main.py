@@ -3,7 +3,7 @@
 # Mentorship & Teamwork - Hashcode
 
 import sys
-file2 = "Output/f1.txt"
+file2 = "f111.txt"
 sys.stdout = open(file2,"w")
 
 
@@ -142,6 +142,7 @@ def prototype(contributors, projects, works):
 
 def process(file_path):
     contributors, projects, works = [], [],[]
+    print(file_path)
     file = open(file_path)
     readFile(file, contributors, projects)
     projects.sort(key = lambda p:p.last_day)
@@ -160,7 +161,7 @@ def process(file_path):
         
     
         
-inputFilesDirectory = "Practice/input/"  
+# inputFilesDirectory = "./Practice/input/"  
 # outputFilesDirectory = "Output/" 
 # fileNames = ["a_an_example.in", 
 #             "b_better_start_small.in", 
@@ -170,6 +171,8 @@ inputFilesDirectory = "Practice/input/"
 #             "f_find_great_mentors.in"] 
 # for fileName in fileNames: 
 #     process(inputFilesDirectory+fileName+".txt")
-    
-
-process(inputFilesDirectory+"f_find_great_mentors.in"+".txt")
+   
+with open("./a_an_example.txt",'r') as f:
+    # x = f.readlines()
+    process(f)
+# print(x)
