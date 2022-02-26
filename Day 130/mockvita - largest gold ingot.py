@@ -19,7 +19,7 @@ class Solution:
                 temp = arr[top]*i
                 if len(st) != 0:
                     temp = temp - st[-1] - 1
-                ans = max(ans%self.mod, temp)
+                ans = max(ans%self.mod, temp)/
             st.append(i)
             print(st)
         while len(st) == False:
