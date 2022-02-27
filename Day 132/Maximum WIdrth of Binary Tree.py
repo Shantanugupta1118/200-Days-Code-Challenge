@@ -1,6 +1,7 @@
 # Github: Shantanugupta1118
-# DAY ___ of DAY 200
-#
+# DAY 132 of DAY 200
+# 662. Maximum Width of Binary Tree
+
 
 
 # Definition for a binary tree node.
@@ -9,6 +10,7 @@ class TreeNode:
         self.val = val
         self.left = left
         self.right = right
+        
 class Solution:
     def widthOfBinaryTree(self, root):
         q = [[root, 0]]
