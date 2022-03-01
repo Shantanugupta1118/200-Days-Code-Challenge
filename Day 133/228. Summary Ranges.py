@@ -16,22 +16,6 @@ class Solution:
             j += 1
             i = j
         return res
-        # i = mid = 0
-        # ans = []
-        # while i < len(nums):
-        #     while mid < len(nums)-1 and nums[mid]+1 == nums[mid+1]:
-        #         mid += 1
-				
-        #     tstr = str(nums[i])
-        #     if mid > i:
-        #         tstr += "->" + str(nums[mid])
-        #     ans.append(tstr)
-        #     mid += 1
-        #     i = mid
-		
-        # return ans
-
-
 
 
 print(Solution().summaryrange([0,1,2,4,5,7]))
